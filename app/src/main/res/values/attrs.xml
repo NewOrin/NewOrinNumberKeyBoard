@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="MyKeyBoardView">
-        <attr name="textColor" format="color" />
-        <attr name="textSize" format="dimension" />
-        <attr name="textBackground" format="color|reference" />
+        <attr name="numColor" format="color" />
+        <attr name="numSize" format="dimension" />
+        <attr name="numBackground" format="color|reference" />
     </declare-styleable>
 </resources>
